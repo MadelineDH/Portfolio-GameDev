@@ -10,4 +10,4 @@ SpaceGame is an object orented game that uses array lists and nested for loops. 
 
 * [Windows](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/src/SpaceGame/windows-amd64.zip)
 * [MacOS](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/SpaceGame)
+* [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/SpaceGame/SpaceGame)
