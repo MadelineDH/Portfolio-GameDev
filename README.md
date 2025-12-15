@@ -20,10 +20,10 @@ Castle Corriors is a Rougelike strategy game for the PC. Colect items to increas
 
 Castle Corriors is a group project between I and many other people. My personal controbutions were the player class and all of the player character animations. 
 
-![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/Madeline%20Hendrickson_Game%20Development%20Fundamentals%201_12152025.pdf)
+![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/SpaceGame01.png?raw=true)
 
 * [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/CastleCorridors)
 
 ### State Certifcation
 
-
+![Certicicate] (https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/MadelineHendrickson_GameDevelopmentFundamentals.pdf?raw=true)
