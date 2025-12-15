@@ -19,3 +19,7 @@ SpaceGame is an object orented game that uses array lists and nested for-loops. 
 Castle Corriors is a Rougelike strategy game for the PC. Colect items to increase your PH level and doge bees. Defeat the king in 60 seconds or else...
 
 Castle Corriors is a group project between I and many other people. My personal controbutions were the player class and all of the player character animations. 
+
+![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/SpaceGame01.png?raw=true)
+
+* [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/CastleCorridors)
