@@ -26,4 +26,4 @@ Castle Corriors is a group project between I and many other people. My personal 
 
 ### State Certifcation
 
-![Certicicate](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/Madeline%20Hendrickson_Game%20Development%20Fundamentals%201_12152025.png)
+* [Certificate](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/Madeline%20Hendrickson_Game%20Development%20Fundamentals%201_12152025.pdf)
