@@ -2,6 +2,14 @@
 
 ## Projects for term 1
 
+### ShapeGame
+
+ShapeGame is is a begining coding project ment to learn some of the basic elements of game development. Try to colect all of the apples in order to get the highest score, but don't take too long!
+
+![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/ShapeGame01.png)
+
+* [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/ShapeGame)
+
 ### SpaceGame
 
 SpaceGame is an object orented game that uses array lists and nested for-loops. Shoot lasers at oncoming rocks to gain points and acheive your high score. Rocks, lasers, stars, and power ups are all made using array lists and nested for loops in order to get the smooth gameplay featured within. It allows the objects to move and intersect with the ship and its lasers, which impacts your score, ammmo, and health.
