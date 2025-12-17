@@ -1,4 +1,4 @@
-# Gaming Development Fundamentals 1 | Madeline Hendrickson | [Contact](mailto:9623730@graniteschools.org)
+# Gaming Development Fundamentals 1 | Madeline Hendrickson | [Contact here](mailto:9623730@graniteschools.org)
 
 ## Projects for term 1
 
