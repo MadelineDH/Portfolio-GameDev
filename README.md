@@ -6,7 +6,7 @@
 
 ShapeGame is is a begining coding project ment to learn some of the basic elements of game development. Try to colect all of the apples in order to get the highest score, but don't take too long!
 
-![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/ShapeGame01.png)
+![Running Game](https://github.com/MadelineDH/Portfolio-GameDev/blob/main/images/ShapeGame01.png?raw=true)
 
 * [Soure Code](https://github.com/MadelineDH/Portfolio-GameDev/tree/main/src/ShapeGame)
 
